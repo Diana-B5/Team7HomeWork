@@ -7,6 +7,9 @@ public class HomeWorkOne {
 		System.out.println("Hi everyone from Diana");
 		System.out.println("Thank you Diana");
 		System.out.println("Good evening everyone, Thank you Diana!");
+		
+		String favFood = "Steak";
+		System.out.println("Diana's favorite food is: " + favFood);
 	}
 
 }
